@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f62b663989157d4a91c5d873b867b15, type: 3}
+  m_Name: Banana_Sword
+  m_EditorClassIdentifier: 
+  ItemID: 0
+  ItemSprite: {fileID: -4371569916529486372, guid: 60cfe2b23963f0c46a78cf2bd29b9aa8,
+    type: 3}
+  Name: Banana Sword
+  Description: 
+  Rarity: 0
+  HeroClass: 1
+  Atk: 0
+  AtkCalculation: 0
+  Knockback: 0
+  Recoil: 0
+  animations:
+  - {fileID: 7400000, guid: 5da77706c66784f439715bc0420192e6, type: 2}
+  - {fileID: 7400000, guid: 65bed609b9edbc847a911444ff667af1, type: 2}
+  - {fileID: 7400000, guid: 840020cd1e7c820418a580e7905b3b79, type: 2}
+  - {fileID: 7400000, guid: ea111e015f118a44782775d94fef12ce, type: 2}

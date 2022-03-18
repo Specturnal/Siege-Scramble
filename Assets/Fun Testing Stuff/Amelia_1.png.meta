@@ -1,0 +1,826 @@
+fileFormatVersion: 2
+guid: dd8480c26b2db1a429a76a812a687bdc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5749881591255252241
+    second: Amelia_1_0
+  - first:
+      213: 2656803947865173905
+    second: Amelia_1_1
+  - first:
+      213: -1733237214124034271
+    second: Amelia_1_2
+  - first:
+      213: -2789337118342304054
+    second: Amelia_1_3
+  - first:
+      213: -6847197633437071206
+    second: Amelia_1_4
+  - first:
+      213: 6489937295838593347
+    second: Amelia_1_5
+  - first:
+      213: 7981435863332461582
+    second: Amelia_1_6
+  - first:
+      213: 5540351948493952936
+    second: Amelia_1_7
+  - first:
+      213: 3294875367292481292
+    second: Amelia_1_8
+  - first:
+      213: -8536783194988667972
+    second: Amelia_1_9
+  - first:
+      213: 1289407833968933247
+    second: Amelia_1_10
+  - first:
+      213: 613019226723690307
+    second: Amelia_1_11
+  - first:
+      213: -6810421821148356241
+    second: Amelia_1_12
+  - first:
+      213: -4932563851444288084
+    second: Amelia_1_13
+  - first:
+      213: -8301647774718779853
+    second: Amelia_1_14
+  - first:
+      213: -385576346482077630
+    second: Amelia_1_15
+  - first:
+      213: -8706055316043756564
+    second: Amelia_1_16
+  - first:
+      213: -1883722599827625904
+    second: Amelia_1_17
+  - first:
+      213: 3015785916681564254
+    second: Amelia_1_18
+  - first:
+      213: 9053654767304559138
+    second: Amelia_1_19
+  - first:
+      213: 4848888994132276344
+    second: Amelia_1_20
+  - first:
+      213: -2332373603373849447
+    second: Amelia_1_21
+  - first:
+      213: 203522283645384983
+    second: Amelia_1_22
+  - first:
+      213: 6918473213031288797
+    second: Amelia_1_23
+  - first:
+      213: -2765672145652098750
+    second: Amelia_1_24
+  - first:
+      213: -1783733461339718207
+    second: Amelia_1_25
+  - first:
+      213: 8187730799985602008
+    second: Amelia_1_26
+  - first:
+      213: -8543120459745331814
+    second: Amelia_1_27
+  - first:
+      213: 1583515953662760778
+    second: Amelia_1_28
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Amelia_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 80
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe24cac28215430b0800000000000000
+      internalID: -5749881591255252241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amelia_1_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 416
+        width: 80
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19feb5e3d1dded420800000000000000
+      internalID: 2656803947865173905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amelia_1_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 416
+        width: 80
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12736a4dfed42f7e0800000000000000
+      internalID: -1733237214124034271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amelia_1_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 416
+        width: 80
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace256e5ba84a49d0800000000000000
+      internalID: -2789337118342304054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amelia_1_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 416
+        width: 80
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a988618c70ed9f0a0800000000000000
+      internalID: -6847197633437071206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amelia_1_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 416
+        width: 80
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341c40dd593e01a50800000000000000
+      internalID: 6489937295838593347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amelia_1_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 312
+        width: 80
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c9e7751a1c3ce60800000000000000
+      internalID: 7981435863332461582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amelia_1_7
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 312
+        width: 80
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a710ac3eb843ec40800000000000000
+      internalID: 5540351948493952936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amelia_1_8
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 312
+        width: 80
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f27a680bfb9bd20800000000000000
+      internalID: 3294875367292481292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amelia_1_9
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 312
+        width: 80
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb1d2af9e0478980800000000000000
+      internalID: -8536783194988667972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amelia_1_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 312
+        width: 80
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79f25ae795e4e110800000000000000
+      internalID: 1289407833968933247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amelia_1_11
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 312
+        width: 80
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347a9512db1e18800800000000000000
+      internalID: 613019226723690307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amelia_1_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 80
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6122e3df658c71a0800000000000000
+      internalID: -6810421821148356241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amelia_1_13
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 208
+        width: 80
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca50bba9f430c8bb0800000000000000
+      internalID: -4932563851444288084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amelia_1_14
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 208
+        width: 80
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e9979355f9acc80800000000000000
+      internalID: -8301647774718779853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amelia_1_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 208
+        width: 80
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24094221b5826aaf0800000000000000
+      internalID: -385576346482077630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amelia_1_16
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 208
+        width: 80
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb8f4411d0ed2780800000000000000
+      internalID: -8706055316043756564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amelia_1_17
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 208
+        width: 80
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05826ed964cabd5e0800000000000000
+      internalID: -1883722599827625904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amelia_1_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104
+        width: 80
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e503e6a10593ad920800000000000000
+      internalID: 3015785916681564254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amelia_1_19
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 104
+        width: 80
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ac534ea0b05ad70800000000000000
+      internalID: 9053654767304559138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amelia_1_20
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 104
+        width: 80
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8743e8289d6ba4340800000000000000
+      internalID: 4848888994132276344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amelia_1_21
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 104
+        width: 80
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994676fa09eb1afd0800000000000000
+      internalID: -2332373603373849447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amelia_1_22
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 104
+        width: 80
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7193f8c407e03d200800000000000000
+      internalID: 203522283645384983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amelia_1_23
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 104
+        width: 80
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf09ca4bba530060800000000000000
+      internalID: 6918473213031288797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amelia_1_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249d63136db5e99d0800000000000000
+      internalID: -2765672145652098750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amelia_1_25
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 80
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd3ed61ed7ee37e0800000000000000
+      internalID: -1783733461339718207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amelia_1_26
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 80
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ddaaa938c9a0a170800000000000000
+      internalID: 8187730799985602008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amelia_1_27
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 80
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95f18b843db07980800000000000000
+      internalID: -8543120459745331814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amelia_1_28
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 80
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a479b3abe57c9f510800000000000000
+      internalID: 1583515953662760778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f62b663989157d4a91c5d873b867b15, type: 3}
+  m_Name: Orange_Sword
+  m_EditorClassIdentifier: 
+  ItemID: 0
+  ItemSprite: {fileID: -3110334305067486911, guid: 60cfe2b23963f0c46a78cf2bd29b9aa8,
+    type: 3}
+  Name: Orange Sword
+  Description: 
+  Rarity: 0
+  HeroClass: 1
+  Atk: 0
+  AtkCalculation: 0
+  Knockback: 0
+  Recoil: 0
+  animations:
+  - {fileID: 7400000, guid: 528e9edc54580934182dee317151f0ab, type: 2}
+  - {fileID: 7400000, guid: 51ef20b3f87306646b09750609763e64, type: 2}
+  - {fileID: 7400000, guid: 6b8bfe9ea1bf27c49a164e707f11e9fd, type: 2}
+  - {fileID: 7400000, guid: b3e3855fd0bcd074da1879d920361662, type: 2}

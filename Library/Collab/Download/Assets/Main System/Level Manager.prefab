@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2550630454867705530
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2550630454867705528}
+  - component: {fileID: 2550630454867705529}
+  - component: {fileID: 3356915341296209400}
+  m_Layer: 0
+  m_Name: Level Manager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2550630454867705528
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2550630454867705530}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2550630454867705529
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2550630454867705530}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dee0a844ddd19fa4db9ee744362111cc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  character: {fileID: 11400000, guid: b885bcf1417f65e4e87612b8c98ddfdb, type: 2}
+  weapon: {fileID: 11400000, guid: f35535c9577772f49999a4a60d1da081, type: 2}
+  headgear: {fileID: 11400000, guid: e6a9525c4125efc4c8b99a20c7270518, type: 2}
+  apparel: {fileID: 11400000, guid: 9853d54a7e8d672449f07e4dd9698337, type: 2}
+  accessories:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  utility: {fileID: 11400000, guid: e52df2f36fc5e0b4ca136d16ba3c4e66, type: 2}
+  playerEntity: {fileID: 2765847204227047476, guid: b59765626cce5a24bbf0c92aaa377877,
+    type: 3}
+  Knight_Block_1: {fileID: 7400000, guid: 84c6dd11bf60fcd4b91148badd636495, type: 2}
+  SwordBeam: {fileID: 3088832350131223249, guid: 067563781499f9f44816d212a13261d1,
+    type: 3}
+--- !u!114 &3356915341296209400
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2550630454867705530}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6366fffbf6166b447b1a2a44ba7809f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Explosion: {fileID: 6671682474315716854, guid: cb2411b44c91e1b458269bf86ac20655,
+    type: 3}

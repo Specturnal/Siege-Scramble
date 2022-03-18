@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff636f9dff0cc1946a822ddebadeb748, type: 3}
+  m_Name: Template_Shield_0
+  m_EditorClassIdentifier: 
+  ItemID: 0
+  ItemSprite: {fileID: 4057318478962997018, guid: d1b58e039283a8f48b55dcbf947c952b,
+    type: 3}
+  Name: Template Shield 0
+  Description: One of the first utility ever made... well at least in the dev world.
+  HeroClass: 1
+  Appearance: {fileID: 0}
+  animations:
+  - {fileID: 7400000, guid: da3c832b78353664aba1975a878236ac, type: 2}
+  - {fileID: 7400000, guid: 33f1774e4d9f8a64bb6a091050f080e6, type: 2}
+  - {fileID: 7400000, guid: a441f6eb4819eb841b400e70bc677b77, type: 2}

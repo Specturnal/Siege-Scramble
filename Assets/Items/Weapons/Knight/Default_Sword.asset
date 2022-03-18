@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f62b663989157d4a91c5d873b867b15, type: 3}
+  m_Name: Default_Sword
+  m_EditorClassIdentifier: 
+  ItemID: 0
+  ItemSprite: {fileID: -1182796515526358404, guid: b14fd70d776ebd04186b819201722fa9,
+    type: 3}
+  Name: Default sword
+  Description: 
+  Rarity: 0
+  HeroClass: 1
+  Atk: 0
+  AtkCalculation: 0
+  Knockback: 0
+  Recoil: 0
+  animations:
+  - {fileID: 7400000, guid: 4e90d76f741b4ce4996af60ed6570e5e, type: 2}
+  - {fileID: 7400000, guid: 0fea0c83a51dd684d9d55afc8789bd24, type: 2}
+  - {fileID: 7400000, guid: 4014d6c196b308b449fc5977911aeb95, type: 2}
+  - {fileID: 7400000, guid: 78f1af42fccba8a48b588cf7a53d8c34, type: 2}

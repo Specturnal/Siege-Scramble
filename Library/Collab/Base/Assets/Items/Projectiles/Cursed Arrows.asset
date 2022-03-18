@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f89b62978b64624e8047c81f3840c02, type: 3}
+  m_Name: Cursed Arrows
+  m_EditorClassIdentifier: 
+  ItemType: 4
+  ItemSprite: {fileID: 21300000, guid: d21a34f07017c884b85c9425c7d4c002, type: 3}
+  ActualSprite: {fileID: 0}
+  Name: Cursed Arrows
+  FakeDescription: One of the deadliest projectiles that bring misfortune upon its
+    victims.
+  ActualDescription: It's just bones, and they come in various shapes.
+  FakePrice: 1500
+  ActualPrice: 1900
+  Damage: 0
+  Knockback: 0
+  Recoil: 0
+  Blend: 0
+  Defense: 0
+  Speed: 0
+  CursedDamage: 0
+  CursedSpeed: 0
+  HpRestorePoints: 0
+  ProjectileID: 0

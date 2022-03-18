@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9ec08fd1f9ea6ee4c9e2804fa1dcdfd8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - SwordBeam: {instanceID: 0}
+  - Arrow: {instanceID: 0}
+  - CursedArrow: {instanceID: 0}
+  - PiercingVoid: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

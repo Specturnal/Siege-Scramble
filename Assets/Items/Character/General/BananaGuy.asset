@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a89c25b5c607e1e4eb8cc2c74f227bd1, type: 3}
+  m_Name: BananaGuy
+  m_EditorClassIdentifier: 
+  ItemID: 0
+  ItemSprite: {fileID: -2246023516936534338, guid: 3a95cd1a9ae7ef34c8932f797f3deaf2,
+    type: 3}
+  Name: Banana Guy
+  Description: 
+  Rarity: 0
+  HeroClasses: 00000000
+  Hp: 0
+  Atk: 0
+  Def: 0
+  Spd: 30
+  Element: 3
+  animator: {fileID: 22100000, guid: a8a4ae3fbda2aff42ab8b0ed97672b60, type: 2}
+  leg_0Sprite:
+  - {fileID: 1977690595707280797, guid: c41fc11f3ace3eb43b560a92e262dbed, type: 3}
+  - {fileID: -41359654571106325, guid: c41fc11f3ace3eb43b560a92e262dbed, type: 3}
+  - {fileID: -6937836288535664976, guid: c41fc11f3ace3eb43b560a92e262dbed, type: 3}
+  - {fileID: 1380543121894136578, guid: c41fc11f3ace3eb43b560a92e262dbed, type: 3}
+  leg_1Sprite: []
+  leg_0Clip: []
+  leg_1Clip: []

@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1772297400750534728
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1772297400750534730}
+  - component: {fileID: 1772297400750534731}
+  m_Layer: 0
+  m_Name: Dictionary
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1772297400750534730
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1772297400750534728}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1772297400750534731
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1772297400750534728}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c5c90fbf0c5fc44cb5becfa7f5eb45b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  characters:
+  - {fileID: 11400000, guid: 5949531f43fb62a4183b79ee36791622, type: 2}
+  - {fileID: 11400000, guid: b885bcf1417f65e4e87612b8c98ddfdb, type: 2}
+  - {fileID: 11400000, guid: 0aaf166b04c05224fa109593bdc79ea2, type: 2}
+  weapons:
+  - {fileID: 11400000, guid: 4d5b8a27f7ebac04db0f7b906966ad19, type: 2}
+  - {fileID: 11400000, guid: c355465346269ad47ad8d147e8508e22, type: 2}
+  - {fileID: 11400000, guid: f35535c9577772f49999a4a60d1da081, type: 2}
+  - {fileID: 11400000, guid: f3916f346bbcbb444867fdf391c915aa, type: 2}
+  headgears:
+  - {fileID: 11400000, guid: 1362d38a6a4e74144bf903e122a6dd02, type: 2}
+  - {fileID: 11400000, guid: e6a9525c4125efc4c8b99a20c7270518, type: 2}
+  apparels: []
+  accessories: []
+  utilities:
+  - {fileID: 11400000, guid: 4a06c31b5f4ab1a49bbcf752125de401, type: 2}
+  - {fileID: 11400000, guid: e52df2f36fc5e0b4ca136d16ba3c4e66, type: 2}
+  - {fileID: 11400000, guid: 1b215aa3814ae3b4f82db3cec189219d, type: 2}
+  - {fileID: 11400000, guid: c159d2dc69bfdaa48a85bff71886d521, type: 2}
+  defaultWeapons:
+  - {fileID: 11400000, guid: a7aff63fedfcbb84f9c61f800f87c76e, type: 2}
+  heroClassIcons:
+  - {fileID: 3183099591293351649, guid: 5aa612f798f55b442a4cbf8ad0ed5137, type: 3}
+  - {fileID: 4350159583008249628, guid: 5aa612f798f55b442a4cbf8ad0ed5137, type: 3}
+  - {fileID: 6115374364178208298, guid: 5aa612f798f55b442a4cbf8ad0ed5137, type: 3}
+  - {fileID: 2693684950681322934, guid: 5aa612f798f55b442a4cbf8ad0ed5137, type: 3}
+  - {fileID: -1441677415947079149, guid: 5aa612f798f55b442a4cbf8ad0ed5137, type: 3}
+  elementIcons:
+  - {fileID: 5732473042291255977, guid: be6188189b33fc04eb4d700308dfbf72, type: 3}
+  - {fileID: -6857209275387150378, guid: be6188189b33fc04eb4d700308dfbf72, type: 3}
+  - {fileID: 6990767324426758154, guid: be6188189b33fc04eb4d700308dfbf72, type: 3}
+  - {fileID: 5618676986325952589, guid: be6188189b33fc04eb4d700308dfbf72, type: 3}
+  - {fileID: 4379678289121517083, guid: be6188189b33fc04eb4d700308dfbf72, type: 3}
+  - {fileID: -7581234078908792354, guid: be6188189b33fc04eb4d700308dfbf72, type: 3}
+  - {fileID: -4445611838823612276, guid: be6188189b33fc04eb4d700308dfbf72, type: 3}
+  - {fileID: 6184543277181131481, guid: be6188189b33fc04eb4d700308dfbf72, type: 3}
+  - {fileID: -6718307934385346466, guid: be6188189b33fc04eb4d700308dfbf72, type: 3}
+  - {fileID: -3839283396916310013, guid: be6188189b33fc04eb4d700308dfbf72, type: 3}
+  limitBreakIcons:
+  - {fileID: -13901740768788530, guid: 74654e5b799fab6488ac60d992b7086d, type: 3}
+  - {fileID: 2490050063883863486, guid: 74654e5b799fab6488ac60d992b7086d, type: 3}
+  - {fileID: -6477144357702954310, guid: 74654e5b799fab6488ac60d992b7086d, type: 3}
+  - {fileID: -6212122480269485658, guid: 74654e5b799fab6488ac60d992b7086d, type: 3}
+  - {fileID: 5044151093231648010, guid: 74654e5b799fab6488ac60d992b7086d, type: 3}
+  equipIcons:
+  - {fileID: 2060832231437110712, guid: 9f233281c7a7b8b4f91974ef8b14663e, type: 3}
+  - {fileID: -5425766926437617924, guid: 9f233281c7a7b8b4f91974ef8b14663e, type: 3}
+  slotRarities:
+  - {fileID: -3169798932818741779, guid: 420d36c7de8427440a5b3a9c14a823f2, type: 3}
+  - {fileID: 500398316704021874, guid: 420d36c7de8427440a5b3a9c14a823f2, type: 3}
+  - {fileID: 5548824178985805299, guid: 420d36c7de8427440a5b3a9c14a823f2, type: 3}
